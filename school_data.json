@@ -1,0 +1,29 @@
+{
+    "students": [
+        {
+            "name": "Ronak",
+            "age": 22,
+            "email": "ronak@test.com",
+            "roll": 62,
+            "grades": {
+                "sst": 89.0
+            }
+        },
+        {
+            "name": "Rawknock",
+            "age": 18,
+            "email": "test@test.com",
+            "roll": 1,
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Ronak master",
+            "age": 22,
+            "email": "ronak@test.com",
+            "subject": "English",
+            "emp_id": 1
+        }
+    ]
+}
