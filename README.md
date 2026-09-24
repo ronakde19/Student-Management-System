@@ -1,4 +1,4 @@
-# 🎓 School Management System
+# 🎓 School Management Syste m
 
 A small Python project to manage **students, teachers and grades**. It has two front-ends on top of the same JSON database:
 
